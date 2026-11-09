@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	float value;
+	float value; //안광현
 
 	scanf("%f", &value);
 	printf("%0.30f", value);
