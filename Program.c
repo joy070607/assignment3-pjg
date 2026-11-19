@@ -7,6 +7,7 @@ int main(void)
 	scanf("%f", &value);
 	printf("%0.30f", value);
 
+	printf("hello"\n);
 	double value2;
 
 	scanf("%lf", &value2);
